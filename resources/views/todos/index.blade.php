@@ -5,7 +5,7 @@
     @endsection
 
 @section('content')
-    <h1 class="text-center">TO DO PAGE</h1>
+    <h1 class="text-center">Things to do</h1>
     <div class="row">
         <div class="col-md-8 offset-md-2">
             <div class="card card-default">
