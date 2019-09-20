@@ -76,6 +76,7 @@
 
             a:visited {
                 background-color: #d61016;
+                font-weight: bold;
             }
 
             .pics{
