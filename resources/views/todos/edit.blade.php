@@ -23,7 +23,7 @@
                             <textarea name="descrp" placeholder="Description" class="form-control" value="{{$todo->descrp}}"></textarea>
                         </div>
                         <div class="form-group text-center">
-                            <button type="submit" class="btn btn-success">Update Todo</button>
+                            <button type="submit" class="btn btn-warning">Update Todo</button>
                         </div>
 
                     </form>
