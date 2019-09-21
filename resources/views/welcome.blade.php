@@ -64,6 +64,7 @@
                 padding: 1em 1.5em;
                 text-decoration: none;
                 text-transform: uppercase;
+                font-weight: bold;
             }
 
             a:hover {
@@ -76,7 +77,6 @@
 
             a:visited {
                 background-color: #d61016;
-                font-weight: bold;
             }
 
             .pics{
